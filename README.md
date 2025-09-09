@@ -6,4 +6,4 @@ A Computer Vision project to anonymize faces in the picture.
 
 
 Results
-![results_picture]([http://url/to/img.png](https://github.com/Vasu-Patel-007/facial_anonymization/blob/main/results.png))
+![results_picture](https://github.com/Vasu-Patel-007/facial_anonymization/blob/main/results.png)
